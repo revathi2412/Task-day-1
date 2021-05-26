@@ -7,7 +7,7 @@ Task 2:
 Task 3:
 --> ⚡ Aptitude(basics add,multi,div(5 prblms))
 Task 4:
---> ⚡utube video(pytnon basics)
+--> ⚡utube video(python basics)
 Task 5:
 --> ⚡Hackerrank (30-day daily challengae)
 Task 6:
